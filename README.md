@@ -1,5 +1,8 @@
 # Travel Record for macOS ✈️🚄
 
+##This is my first attempt, so please bear with me and feel free to discuss. 
+
+
 ---
 
 ## 🌐 English Version
@@ -42,6 +45,13 @@ Developed by aviation enthusiasts, it turns your digital records into a professi
 * **Clean Formatting**: Optimized flight number inputs (no more "8,703" comma interference).
 
 ---
+### Download
+https://github.com/minecraft-ccysj/TravelRecordforMac/blob/88a94bfd208a4adbdc0b716457b4bd42e3b630d9/Travel%20Record.dmg
+
+---
+
+##新人第一次尝试，诸多内容请大家多多包涵，欢迎讨论  
+
 
 ## 🇨🇳 中文版本
 
@@ -95,3 +105,8 @@ Developed by aviation enthusiasts, it turns your digital records into a professi
 ## 📄 **License / 许可证**
 This project is licensed under the **MIT License**.
 本项目基于 **MIT 许可证** 开源。
+
+#下载
+https://github.com/minecraft-ccysj/TravelRecordforMac/blob/88a94bfd208a4adbdc0b716457b4bd42e3b630d9/Travel%20Record.dmg
+
+---
